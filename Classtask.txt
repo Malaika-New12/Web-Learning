@@ -1,0 +1,45 @@
+1. HTML Document Structure
+Task:
+Create a basic HTML webpage with:
+- <!DOCTYPE html>
+- <html>
+- <head>
+- <title>
+- <body>
+- Display a welcome message in the body.
+
+2. Tags & Elements
+Task:
+Create a webpage that displays:
+- Your name
+- Your age
+- Your city
+- Your favorite hobby
+
+Use appropriate HTML tags for each piece of information.
+
+3. Headings & Paragraphs
+Task:
+Create a webpage with:
+- One main heading: My Introduction
+- Two subheadings
+- A short paragraph under each subheading.
+
+4. Links
+Task:
+Create a webpage with the heading "My Favorite Websites" and add links to:
+- Google
+- YouTube
+- Wikipedia
+
+Make each link clickable.
+
+5. Combined Basic Task
+Task:
+Create a simple "About Me" webpage containing:
+- A page title
+- One main heading
+- A short introduction paragraph
+- A subheading called "My Hobbies"
+- A paragraph about your hobbies
+- A link to your favorite website.
