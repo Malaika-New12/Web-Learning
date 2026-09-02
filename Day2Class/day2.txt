@@ -1,0 +1,3 @@
+LinkS
+It is just lika a hyperlinks , which connects two pages with each ther.
+a tag is used for this.

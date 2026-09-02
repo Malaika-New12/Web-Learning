@@ -1,0 +1,4 @@
+Create two html pages.
+Name the one page index.html 
+In which the data of the links and images will shoe
+then create another page with the name cartoons and add images with youtube urls, atleast 5 ursl and images and use br tags for better design and understanding or u can use paragrapgh to explain that imag or content of the vedio
