@@ -1,4 +1,145 @@
-Create two html pages.
-Name the one page index.html 
-In which the data of the links and images will shoe
-then create another page with the name cartoons and add images with youtube urls, atleast 5 ursl and images and use br tags for better design and understanding or u can use paragrapgh to explain that imag or content of the vedio
+HTML Assignment – Web Page Creation
+
+Task 1:
+Create Two HTML Pages with Images and YouTube Links
+
+Objective:
+Create a simple and well-structured website using HTML. The website should contain two separate HTML pages: index.html and cartoons.html.
+
+Page 1: index.html
+------------------
+File Name:
+index.html
+
+Requirements:
+1. Create an HTML page named "index.html".
+2. This page should display the data/content related to the links and images used in the website.
+3. Add relevant links that navigate to the required pages or external resources.
+4. Add images where appropriate.
+5. Make sure all links and images are properly displayed and functional.
+6. Use basic HTML tags to keep the page clean, readable, and well-organized.
+
+
+Page 2: cartoons.html
+---------------------
+File Name:
+cartoons.html
+
+Requirements:
+1. Create a second HTML page named "cartoons.html".
+2. Add at least 5 cartoon-related images.
+3. For each cartoon, add a relevant YouTube video URL.
+4. Each image should be properly displayed using the <img> tag.
+5. Each YouTube URL should be added using the <a> tag so that the user can click the link and open the video.
+6. Add a short paragraph explaining the cartoon, image, or related video content.
+7. Use <br> tags where necessary to provide proper spacing and improve readability.
+8. You may also use <p> tags instead of excessive <br> tags where appropriate.
+9. Keep the content organized so that each cartoon image, description, and YouTube link is easy to understand.
+
+
+Minimum Content:
+-----------------
+- 2 HTML pages
+- 1 index.html page
+- 1 cartoons.html page
+- At least 5 cartoon images
+- At least 5 YouTube video URLs
+- Short descriptions for the cartoon images/videos
+- Proper use of HTML tags
+- Working links and properly displayed images
+
+
+Basic HTML Tags Expected:
+-------------------------
+<html>
+<head>
+<title>
+<body>
+<h1>
+<h2>
+<p>
+<img>
+<a>
+<br>
+
+
+Submission Guidelines:
+----------------------
+1. Save both files with the correct names:
+   - index.html
+   - cartoons.html
+2. Make sure both pages open correctly in a web browser.
+3. Check that all images are visible.
+4. Check that all YouTube links are working.
+5. Maintain clean, readable, and properly indented HTML code.
+6. Ensure that the website content is easy to understand and professionally organized.
+
+
+
+Task 2:
+Create Two HTML Pages with Images and YouTube Links
+
+Task Requirements:
+
+1. Create two HTML pages:
+
+   * index.html
+   * cartoons.html
+
+2. index.html:
+
+   * Create a main page named "index.html".
+   * Add relevant images.
+   * Add links to navigate between the pages.
+   * Make sure all images and links are properly displayed and functional.
+
+3. cartoons.html:
+
+   * Create a page named "cartoons.html".
+   * Add at least 5 cartoon images.
+   * Add a YouTube URL for each cartoon.
+   * Make each YouTube URL clickable using the <a> tag.
+   * Add a short paragraph explaining each cartoon or video.
+   * Use <br> tags for proper spacing and better presentation.
+   * You may also use <p> tags to organize the content.
+
+4. HTML Tags to Use:
+
+   * <html>
+   * <head>
+   * <title>
+   * <body>
+   * <h1>
+   * <h2>
+   * <p>
+   * <img>
+   * <a>
+   * <br>
+
+Minimum Requirements:
+
+* 2 HTML pages
+* 1 index.html
+* 1 cartoons.html
+* At least 5 cartoon images
+* At least 5 YouTube URLs
+* At least 5 descriptions
+* Clickable YouTube links
+* Proper use of <img>, <a>, <p>, and <br> tags
+* Clean and properly structured HTML code
+
+Expected Output:
+
+The final project should be a simple two-page HTML website. The index.html page should contain the main content, images, and navigation links. The cartoons.html page should contain at least five cartoon images, their descriptions, and clickable YouTube video links.
+
+Submission:
+
+Submit the complete project folder containing:
+
+index.html
+cartoons.html
+images/
+
+
+
+
